@@ -1,0 +1,7 @@
+/target/
+/dist/
+*.local
+*.dpapi
+*.dpapi.new
+sh1n-profiles*.json
+/.media-work/
